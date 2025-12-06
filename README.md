@@ -8,20 +8,10 @@
 
 ## 📖 Jejak Pendidikan
 
-<div style="display:flex; justify-content:center; gap:40px; align-items:center; padding:20px 0; background:#f9f9f9;">
-  <div style="text-align:center;">
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="80" />
-    <div>SDN 03 SERANG</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png" width="80" />
-    <div>SMPN 4 TAMAN</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="80" />
-    <div>SMK SAMUDRA NUSANTARA</div>
-  </div>
-</div>
+| SDN 03 SERANG | SMPN 4 TAMAN | SMK SAMUDRA NUSANTARA |
+|---------------|---------------|-----------------------|
+| ![serang](https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png =80x80) | ![fourta](https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png =80x80) | ![samnus](https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png =80x80) |
+
 
 <!--
 **gagah-aja/gagah-aja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
