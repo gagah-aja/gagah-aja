@@ -1,7 +1,5 @@
 ## Hi 👋, I'm M. Gagah Prayoga F
 
-![Gagah Aja](img/github-header-banner1.png)
-
 ![happy birthday](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFldG5mcjNheWw4aDA2dTZiNG1leWJyeHpxcmxuYjZudHI1cWpmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 #### 💻 Tech Stack:
@@ -12,6 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 #### 🌐 Socials:
