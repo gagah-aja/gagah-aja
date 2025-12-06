@@ -8,9 +8,22 @@
 
 ## 📖 Jejak Pendidikan
 
-| SDN 03 SERANG | SMPN 4 TAMAN | SMK SAMUDRA NUSANTARA |
-|---------------|---------------|-----------------------|
-| ![serang](https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png =80x80) | ![fourta](https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png =80x80) | ![samnus](https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png =80x80) |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="80" /><br/>
+      SDN 03 SERANG
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png" width="80" /><br/>
+      SMPN 4 TAMAN
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="80" /><br/>
+      SMK SAMUDRA NUSANTARA
+    </td>
+  </tr>
+</table>
 
 
 <!--
