@@ -4,17 +4,20 @@
 
 </div>
 
-<table>
+<table width="100%" style="max-width:600px; margin:auto;">
   <tr>
-    <td style="vertical-align:middle; padding-right:20px;">
+    <!-- Teks -->
+    <td style="vertical-align:middle; padding-right:20px; text-align:left;">
       <strong>Code, Commit, Repeat!</strong><br/>
       Mari berbagi ilmu dan membuat project seru bersama.
     </td>
-    <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFldG5mcjNheWw4aDA2dTZiNG1leWJyeHpxcmxuYjZudHI1cWpmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+    <!-- GIF -->
+    <td style="text-align:center;">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFldG5mcjNheWw4aDA2dTZiNG1leWJyeHpxcmxuYjZudHI1cWpmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width:100%; height:auto;" />
     </td>
   </tr>
 </table>
+
 
 ## 💻 Tech Stack:
 
