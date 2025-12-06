@@ -6,34 +6,45 @@
 
 ![happy birthday](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFldG5mcjNheWw4aDA2dTZiNG1leWJyeHpxcmxuYjZudHI1cWpmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## 💻 Tech Stack:
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kecekiler777) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@taehyung34441)
-
 ## 🎞️ Tech Logos Animation
 
-<div align="center">
-
-<!-- SVG animasi logo berjalan -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/2.png" width="600"/>
-<img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/3.png" width="600"/>
-
+<div class="logo-slider">
+  <div class="logo-track">
+    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/foura.png" width="200" />
+    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="200" />
+    <!-- ulang logo untuk efek loop -->
+    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/foura.png" width="200" />
+    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="200" />
+  </div>
 </div>
 
+<style>
+.logo-slider {
+  overflow: hidden;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.logo-track {
+  display: flex;
+  animation: scroll 8s linear infinite;
+}
+
+.logo-track img {
+  margin: 0 20px;
+}
+
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+</style>
 
 
+
+
+  
 
 <!--
 **gagah-aja/gagah-aja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
