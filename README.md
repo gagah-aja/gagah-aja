@@ -8,43 +8,72 @@
 
 ## 📖 Jejak Pendidikan
 
-<marquee behavior="scroll" direction="left" scrollamount="10">
-<div style="display:inline-block; text-align:center; margin-right:40px;">
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="150" />
-    <div>SDN 03 SERANG</div>
+<div class="logo-slider">
+  <div class="logo-track">
+    <!-- 3 logo dengan caption -->
+    <div class="logo-item">
+      <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="80" />
+      <div>SDN 03 SERANG</div>
+    </div>
+    <div class="logo-item">
+      <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png" width="80" />
+      <div>SMPN 4 TAMAN</div>
+    </div>
+    <div class="logo-item">
+      <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="80" />
+      <div>SMK SAMUDRA NUSANTARA</div>
+    </div>
+    <!-- ulang untuk loop -->
+    <div class="logo-item">
+      <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="80" />
+      <div>SDN 03 SERANG</div>
+    </div>
+    <div class="logo-item">
+      <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png" width="80" />
+      <div>SMPN 4 TAMAN</div>
+    </div>
+    <div class="logo-item">
+      <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="80" />
+      <div>SMK SAMUDRA NUSANTARA</div>
+    </div>
   </div>
+</div>
 
-  <div style="display:inline-block; text-align:center; margin-right:40px;">
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png" width="150" />
-    <div>SMPN 4 TAMAN</div>
-  </div>
+<style>
+.logo-slider {
+  overflow: hidden;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background: #f9f9f9;
+  padding: 20px 0;
+}
 
-  <div style="display:inline-block; text-align:center; margin-right:40px;">
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="150" />
-    <div>SMK SAMUDRA NUSANTARA</div>
-  </div>
+.logo-track {
+  display: flex;
+  animation: scroll 10s linear infinite;
+}
 
-  <div style="display:inline-block; text-align:center; margin-right:40px;">
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="150" />
-    <div>SDN 03 SERANG</div>
-  </div>
+.logo-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 40px;
+  font-size: 12px;
+  text-align: center;
+}
 
-  <!-- ulang untuk loop mulus -->
-  <div style="display:inline-block; text-align:center; margin-right:40px;">
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png" width="150" />
-    <div>SMPN 4 TAMAN</div>
-  </div>
+.logo-item img {
+  display: block;
+  margin-bottom: 5px;
+}
 
-  <div style="display:inline-block; text-align:center; margin-right:40px;">
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="150" />
-    <div>SMK SAMUDRA NUSANTARA</div>
-  </div>
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+</style>
 
-  <div style="display:inline-block; text-align:center; margin-right:40px;">
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="150" />
-    <div>SDN 03 SERANG</div>
-  </div>
-</marquee>
 
 
 
