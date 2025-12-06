@@ -1,4 +1,8 @@
-# Hi 👋, I'm M. Gagah Prayoga F
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+M.+Gagah+Prayoga+F;Aku+hanya+manusia+yang+selalu+haus+ilmu)](https://git.io/typing-svg)
+
+</div>
 
 ![happy birthday](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFldG5mcjNheWw4aDA2dTZiNG1leWJyeHpxcmxuYjZudHI1cWpmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -15,6 +19,19 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kecekiler777) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@taehyung34441)
+
+## 🎞️ Tech Logos Animation
+
+<div align="center">
+
+<!-- SVG animasi logo berjalan -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/2.png" width="600"/>
+<img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/3.png" width="600"/>
+
+</div>
+
 
 
 
