@@ -9,14 +9,43 @@
 ## 📖 Jejak Pendidikan
 
 <marquee behavior="scroll" direction="left" scrollamount="10">
-  <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png" width="150" style="margin-right:40px;" />
-  <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="150" style="margin-right:40px;" />
-  <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="150" style="margin-right:40px;" />
-  <!-- ulang gambar untuk efek loop mulus -->
-  <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png" width="150" style="margin-right:40px;" />
-  <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="150" style="margin-right:40px;" />
-  <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="150" style="margin-right:40px;" />
+<div style="display:inline-block; text-align:center; margin-right:40px;">
+    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="150" />
+    <div>SDN 03 SERANG</div>
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:40px;">
+    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png" width="150" />
+    <div>SMPN 4 TAMAN</div>
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:40px;">
+    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="150" />
+    <div>SMK SAMUDRA NUSANTARA</div>
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:40px;">
+    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="150" />
+    <div>SDN 03 SERANG</div>
+  </div>
+
+  <!-- ulang untuk loop mulus -->
+  <div style="display:inline-block; text-align:center; margin-right:40px;">
+    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png" width="150" />
+    <div>SMPN 4 TAMAN</div>
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:40px;">
+    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="150" />
+    <div>SMK SAMUDRA NUSANTARA</div>
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:40px;">
+    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="150" />
+    <div>SDN 03 SERANG</div>
+  </div>
 </marquee>
+
 
 
 <!--
