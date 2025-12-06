@@ -6,45 +6,18 @@
 
 ![happy birthday](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFldG5mcjNheWw4aDA2dTZiNG1leWJyeHpxcmxuYjZudHI1cWpmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## 🎞️ Tech Logos Animation
+## 📖 Jejak Pendidikan
 
-<div class="logo-slider">
-  <div class="logo-track">
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/foura.png" width="200" />
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="200" />
-    <!-- ulang logo untuk efek loop -->
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/foura.png" width="200" />
-    <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="200" />
-  </div>
-</div>
+<marquee behavior="scroll" direction="left" scrollamount="10">
+  <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png" width="150" style="margin-right:40px;" />
+  <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="150" style="margin-right:40px;" />
+  <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="150" style="margin-right:40px;" />
+  <!-- ulang gambar untuk efek loop mulus -->
+  <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/fourta.png" width="150" style="margin-right:40px;" />
+  <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/samnus.png" width="150" style="margin-right:40px;" />
+  <img src="https://raw.githubusercontent.com/gagah-aja/gagah-aja/main/assets/serang.png" width="150" style="margin-right:40px;" />
+</marquee>
 
-<style>
-.logo-slider {
-  overflow: hidden;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-
-.logo-track {
-  display: flex;
-  animation: scroll 8s linear infinite;
-}
-
-.logo-track img {
-  margin: 0 20px;
-}
-
-@keyframes scroll {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
-</style>
-
-
-
-
-  
 
 <!--
 **gagah-aja/gagah-aja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
