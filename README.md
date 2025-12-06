@@ -7,17 +7,14 @@
 <table>
   <tr>
     <td style="vertical-align:middle; padding-right:20px;">
-      <strong>Selamat Ulang Tahun!</strong><br/>
-      Semoga hari-harimu penuh kebahagiaan dan kesuksesan.
+      <strong>Code, Commit, Repeat!</strong><br/>
+      Mari berbagi ilmu dan membuat project seru bersama.
     </td>
     <td>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFldG5mcjNheWw4aDA2dTZiNG1leWJyeHpxcmxuYjZudHI1cWpmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
     </td>
   </tr>
 </table>
-
-
-
 
 ## 💻 Tech Stack:
 
@@ -31,6 +28,7 @@
 </div>
 
 ## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kecekiler777) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@taehyung34441)
 
 ## 📖 Jejak Pendidikan
