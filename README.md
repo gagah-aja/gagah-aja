@@ -1,4 +1,4 @@
-## Hi 👋, i'm M. Gagah Prayoga F
+## Hi 👋, I'm M. Gagah Prayoga F
 
 <!--
 **gagah-aja/gagah-aja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
