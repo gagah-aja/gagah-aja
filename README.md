@@ -34,7 +34,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kecekiler777) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@taehyung34441)
 
-## 📖 Jejak Pendidikan
+<!-- ## 📖 Jejak Pendidikan
 
 <table>
   <tr>
@@ -51,7 +51,7 @@
       SMK SAMUDRA NUSANTARA
     </td>
   </tr>
-</table>
+</table> -->
 
 <!--
 **gagah-aja/gagah-aja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
